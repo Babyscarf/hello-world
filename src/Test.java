@@ -12,5 +12,6 @@ public class Test extends Test2{
 	public void run(){
 		System.out.println("Hi");
 		System.out.println(str());
+		System.out.println(in(10));
 	}
 }
